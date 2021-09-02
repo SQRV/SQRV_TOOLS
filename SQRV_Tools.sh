@@ -1,4 +1,5 @@
 #!usr/bin/bash
+git clone https://github.com/SQRV/SQRV_TOOLS.git
 clear
 # warna
 h="\033[32;1m"
